@@ -144,7 +144,7 @@ export function SearchBar({ onSearch, onLocationSelect, onClear }: SearchBarProp
           <Input
             ref={searchBoxRef}
             type="text"
-            placeholder="Search for a location or bus number..."
+            placeholder="Search for a location..."
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             className="pl-10 pr-20"
