@@ -25,29 +25,23 @@ HKIS Bus Finder is a web application designed to help Hong Kong International Sc
 ### Installation
 
 1. Clone the repository:
-   \`\`\`bash
    git clone https://github.com/yourusername/hkis-bus-finder.git
    cd hkis-bus-finder
-   \`\`\`
 
 2. Install dependencies:
-   \`\`\`bash
-   npm install
-   # or
-   yarn install
-   \`\`\`
+   > npm install 
+   > yarn install
+  
 
 3. Create a `.env.local` file in the root directory and add your Google Maps API key:
-   \`\`\`
-   NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=your_google_maps_api_key_here
-   \`\`\`
+
+   > NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=your_google_maps_api_key_here
+ 
 
 4. Start the development server:
-   \`\`\`bash
-   npm run dev
-   # or
-   yarn dev
-   \`\`\`
+   > npm run dev
+   > yarn dev
+  
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
@@ -56,11 +50,9 @@ HKIS Bus Finder is a web application designed to help Hong Kong International Sc
 To deploy the application to production:
 
 1. Build the application:
-   \`\`\`bash
-   npm run build
-   # or
-   yarn build
-   \`\`\`
+   > npm run build
+   or
+   > yarn build
 
 2. Start the production server:
    \`\`\`bash
