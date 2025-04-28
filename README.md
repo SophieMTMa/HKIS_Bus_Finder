@@ -3,8 +3,10 @@
 HKIS Bus Finder is a web application designed to help Hong Kong International School students, parents, and staff find the right school bus routes and stops. The application provides an interactive map interface to visualize bus stops, search for locations, and find nearby bus routes.
 
 <img width="1170" alt="Screenshot 2025-04-24 at 9 35 50 AM" src="https://github.com/user-attachments/assets/a85996de-0392-4d71-b303-6abf853f3e0e" />
-### Try it out!! 
+
+## Try it out!! 
 https://v0-hkis-bus-finder.vercel.app/
+
 
 ## Features
 
